@@ -1,0 +1,67 @@
+header h1{
+    background-color: #41A09B;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 2.5% 0% 0% 5%;
+    float:left;
+    padding: auto;
+    font: georgia;
+}
+header ul{
+    list-style-type: none;
+   margin: 5% 0% 5% 5% ;
+   padding: 0% 15% 0% 0%;
+   overflow: hidden;
+   background-color: #ffffff;
+}
+header li{
+    float: right;
+    padding: 10px;
+    font-size: 12px;
+
+}
+header li a{
+    text-decoration: none;
+    color: gray;
+    display: block;   
+
+}
+
+h2{
+    color: #4aaaa5;
+}
+.container{
+    overflow: auto;
+}
+#main-bio{
+    float: left;
+    overflow: hidden;
+    width: 45%;
+    font: helvetica;
+    line-height: 1.5em;
+
+
+}
+
+.connect{ 
+    float: left;
+    overflow: hidden;
+    width: 20%;
+    
+}
+
+.connect li a {
+    display: block-inline;
+    overflow: hidden;
+    width: 84px; 
+    height: 84px;
+
+}
+footer{
+    color: #666666;
+    position: relative;
+    padding: auto;
+    text-align: center;
+
+}
+ 

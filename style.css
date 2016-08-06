@@ -1,0 +1,260 @@
+h2{
+
+    font-weight: bold;
+    font-size: 24px;
+    padding: 0px;
+    margin: 5% 5%;
+    color: #00AFA7 ;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+footer {
+
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:50px;
+    width:100%;
+    padding-top: 6%
+    border-top: 5px;
+    border-color: #00AFA7;
+    background:#666666;
+    text-align: center;
+    border-style: solid;
+    z-index: 999;
+
+}
+
+footer p {
+
+        padding: auto;
+        position: relative;
+        color: white;
+}
+
+
+.big {
+
+    width: 100%;
+    height: 50%;
+    background-image: url; 
+    overflow: auto;
+    padding-bottom: 150px;
+
+}
+
+.line-separator{
+
+height:1px;
+background:#717171;
+border-bottom:1px solid #313030;
+margin: 1% 5%;
+
+}
+
+.p {
+    float: left;
+    padding: 2px;
+    margin: 2px;
+    display: relative;
+    text-align: justify;
+
+}
+
+.clear{
+
+    clear: both;
+}
+
+.about-me{
+    margin: 2.5% 2.5% 2.5% 2.5%;
+    display: absolute;
+    text-align: justify;
+    line-height: 1.5em;
+    font: arial;
+}
+
+.profile-full{
+
+    width: 35%;
+    background: #ffffff;
+    padding-right: 50px;
+    margin: 2.5% 7.5%;
+    overflow: hidden;
+    float: left;
+}
+
+.profile-pic {
+    float: left;
+    width: 140px;
+    padding: 5%;
+}
+
+.name{
+
+    float: left;
+    background-color:#00AFA7;
+    height: 35px;
+    line-height: 35px;
+    margin-left: 5%;
+    margin-bottom: 0px;
+    padding: 7px 14px 7px 14px;
+    color: white;
+    text-align:center;
+    margin-top:100;
+    font-weight: bold;
+
+
+}
+
+.connect {
+
+    width:30%;
+    margin: 2.5% 2.5%;
+    padding: 1% 1% 1% 1% ;
+    background-color: #ffffff;
+    overflow: hidden;
+    float: left;
+}
+
+
+.connect li a {
+
+    display:block-inline;
+    overflow: hidden;
+    float:left;
+    margin: 1%;
+    padding: 1%;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 5% 0% 0% 0% ;
+    padding: 0% 15% 0% 0%;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.menu li {
+
+    float: right;
+}
+
+.menu li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+
+    background-color: #00AFA7 ;
+    color: #ffffff;
+}
+
+.portfolio {
+    padding: 5%;
+    position: relative;
+    overflow: hidden;
+    float:left;
+    overflow: auto;
+    width: 100%;
+
+}
+
+.portfolio a {
+
+    display: block-inline;
+    padding: 2.5%;
+    overflow: relative;
+    position: relative;
+    width: 20%;
+    overflow: auto;
+
+
+}
+
+.portfolio a .name {
+
+    z-index: 10;
+    margin-top: 0;
+    position: absolute;
+    top: -30px;
+    left: 2px;
+    float: left;
+    display:block-inline;
+    overflow: hidden;
+    width: 71.5%;
+
+}
+
+form{
+
+    width: 100%;
+}
+
+.forms{
+
+    width: 45%;
+    background: #ffffff;
+    padding: 2.5% 2.5%;
+    margin: 2.5% 5%;
+    overflow: hidden;
+    float: left;
+    font: georgia;
+
+
+}
+
+.frm {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    width: 100%;
+
+
+}
+
+.frm input {
+
+    width: 90%;
+    line-height: 1.5em;
+    height:: 1.5em;
+    padding: 6px;
+}
+
+.frm textarea {
+
+    width: 90%;
+    padding: 6px;
+}
+
+.butt {
+
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    width: 100%;
+
+
+}
+
+.butt input {
+
+    float: left;
+    background-color:#00AFA7;
+    height: 35px;
+    line-height: 35px;
+    margin-left: 0%;
+    margin-bottom: 0px;
+    padding: 0px 7.5px 0px 7.5px;
+    color: white;
+    text-align:center;
+    margin-top:100;
+    font-weight: bold;
+
+}
